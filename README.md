@@ -2,7 +2,6 @@
 
 A web system that helps students and lecturers keep the number of tests and quizzes per week under control, so students are not overwhelmed.
 
-> **Status:** planning. Nothing is built yet.
 
 ## Problem
 
